@@ -1,5 +1,7 @@
 # Client Acquisition Pipeline
 
+![Client Acquisition Pipeline](docs/okladka.png)
+
 System pozyskiwania klientów dla lokalnej agencji AI: od kandydatów z Map, przez scoring i research, po prototyp, wizytę i ofertę. Zaprojektowany wokół prawa: bez zimnych telefonów i maili.
 
 *Client acquisition for a local AI agency: map candidates, scoring, research, prototype, in-person visit, offer. Designed around the law: no cold calls or cold emails.*
