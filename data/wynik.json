@@ -1,0 +1,98 @@
+[
+ {
+  "id": "k1",
+  "nazwa": "Piekarnia Przykładowa",
+  "etap": "prototyp",
+  "wejscia": 4,
+  "punkty": {
+   "popyt": 40,
+   "luka": 30,
+   "luka_zero": false,
+   "decydent": 15,
+   "suma": 85,
+   "do_zmierzenia": false,
+   "kategoria": "gorący"
+  },
+  "zmiana": "2026-10-12"
+ },
+ {
+  "id": "k2",
+  "nazwa": "Warsztat Wzorowy",
+  "etap": "kandydat",
+  "wejscia": 0,
+  "punkty": {
+   "popyt": 31,
+   "luka": 31,
+   "luka_zero": false,
+   "decydent": 20,
+   "suma": 82,
+   "do_zmierzenia": false,
+   "kategoria": "gorący"
+  },
+  "zmiana": "2026-10-12"
+ },
+ {
+  "id": "k5",
+  "nazwa": "Gabinet Stomatologiczny Uśmiech",
+  "etap": "oferta",
+  "wejscia": 12,
+  "punkty": {
+   "popyt": 40,
+   "luka": 0,
+   "luka_zero": true,
+   "decydent": 5,
+   "suma": 45,
+   "do_zmierzenia": false,
+   "kategoria": "do podgrzania"
+  },
+  "zmiana": "2026-10-12"
+ },
+ {
+  "id": "k4",
+  "nazwa": "Studio Fryzur Nożyczki",
+  "etap": "wizyta",
+  "wejscia": 9,
+  "punkty": {
+   "popyt": 21,
+   "luka": null,
+   "luka_zero": false,
+   "decydent": 15,
+   "suma": 36,
+   "do_zmierzenia": true,
+   "kategoria": "do podgrzania"
+  },
+  "zmiana": "2026-10-12"
+ },
+ {
+  "id": "k6",
+  "nazwa": "Zakład Szewski Podeszwa",
+  "etap": "kandydat",
+  "wejscia": 0,
+  "punkty": {
+   "popyt": 7,
+   "luka": 7,
+   "luka_zero": false,
+   "decydent": 10,
+   "suma": 24,
+   "do_zmierzenia": false,
+   "kategoria": "zimny"
+  },
+  "zmiana": "2026-10-12"
+ },
+ {
+  "id": "k3",
+  "nazwa": "Salon Kwiatowy Okazja",
+  "etap": "research",
+  "wejscia": 0,
+  "punkty": {
+   "popyt": 0,
+   "luka": 0,
+   "luka_zero": false,
+   "decydent": 5,
+   "suma": 5,
+   "do_zmierzenia": false,
+   "kategoria": "zimny"
+  },
+  "zmiana": "2026-10-12"
+ }
+]
